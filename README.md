@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 I am Adrien Leger
 
 <div><p>My profile overview: </p></div>
 
