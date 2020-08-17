@@ -10,14 +10,14 @@ I am a **computational biologist** and **open source software developer** workin
 
 ### Projects
 
-<a href = "https://a-slide.github.io/pycoQC/"><img src="Pictures/pycoQC.svg", width="250"></a> <a href = "https://github.com/a-slide/NanoCount"><img src="Pictures/NanoCount.svg", width="350"></a>
+<a href = "https://a-slide.github.io/pycoQC/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg", width="250"></a> <a href = "https://github.com/a-slide/NanoCount"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg", width="350"></a>
 
 </br>
 
-<a href = "https://github.com/a-slide/NanoSnake"><img src="Pictures/NanoSnake.svg", width="300"></a> <a href = "https://a-slide.github.io/pycoMeth/"><img src="Pictures/pycoMeth.svg", width="300"></a>
+<a href = "https://github.com/a-slide/NanoSnake"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg", width="300"></a> <a href = "https://a-slide.github.io/pycoMeth/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg", width="300"></a>
 
 </br>
 
-<a href = "https://nanocompore.rna.rocks/"><img src="Pictures/Nanocompore.svg", width="600"></a>
+<a href = "https://nanocompore.rna.rocks/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg", width="600"></a>
 
 
