@@ -13,10 +13,11 @@ I am a **computational biologist** and **open source software developer** workin
 <div class="row">
 
 <div class="column">
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="Snow" style="width:100%">
+<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC" width="300">
 </div>
 
 <div class="column">
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="Forest" style="width:100%">
+<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC" width="300">
+</div>
 
 </div> 
