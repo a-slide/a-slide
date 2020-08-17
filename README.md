@@ -16,10 +16,10 @@ I am a **computational biologist** and **open source software developer** workin
 ### Projects
 
 <p>
-  <code><img width="25%" height="50" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg"></code>
-  <code><img width="25%" height="50" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg"></code>
-  <code><img width="25%" height="50" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg"></code>
+  <code><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg"></code>
+  <code><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg"></code>
+  <code><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg"></code>
   <br />
-  <code><img width="25%" height="50" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg"></code>
-  <code><img width="50%" height="50" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg"></code>
+  <code><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg"></code>
+  <code><img width="50%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg"></code>
 </p>
