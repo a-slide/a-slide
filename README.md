@@ -20,21 +20,21 @@ I am a **computational biologist** and **open source software developer** workin
 <table width="100%" border="0" cellspacing="20" cellpadding="20">
 <tbody>
 <tr>
-<td align="center" width="33%">
+<td width="33%">
 <a href = "https://a-slide.github.io/pycoQC/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC"></a>
 </td>
-<td align="center" width="33%">
+<td width="33%">
 <a href = "https://a-slide.github.io/pycoMeth/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg" alt="pycoMeth"></a>
 </td>
-<td align="center" width="33%">
+<td width="33%">
 <a href = "https://github.com/a-slide/NanoSnake"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg" alt="NanoSnake"></a>
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td width="33%">
 <a href = "https://github.com/a-slide/NanoCount"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg" alt="NanoCount"></a>
 </td>
-<td align="center" width="66%">
+<td width="66%">
 <a href = "https://nanocompore.rna.rocks/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg" alt="Nanocompore"></a>
 </td>
 </tr>
