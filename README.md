@@ -10,7 +10,9 @@ I am a **computational biologist** and **open source software developer** workin
 
 ### Projects
 
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg", width="250">
+<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.png", width="250">
+
+<img src="Pictures/pycoQC.png", width="250">
 
 <img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg", width="350">
 
