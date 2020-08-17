@@ -16,4 +16,18 @@ I am a **computational biologist** and **open source software developer** workin
 	</a>
 </div>
 
+<div>
+
+	<a href = "https://a-slide.github.io/pycoQC/">
+		<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="Welcome!" width="300"/>
+	</a>
+</div>
+
+
+<div>
+	<a href = "https://a-slide.github.io/pycoQC/">
+		<img src="Pictures/pycoQC.svg" alt="Welcome!" width="300"/>
+	</a>
+</div>
+
 
