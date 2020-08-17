@@ -17,7 +17,7 @@ I am a **computational biologist** and **open source software developer** workin
 
 ## Projects
 
-<table width="80%" border="0" cellspacing="20" cellpadding="20">
+<table width="100%" border="0" cellspacing="20" cellpadding="20">
 <tbody>
 <tr>
 <td align="center" width="33%">
