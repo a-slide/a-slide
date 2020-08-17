@@ -1,4 +1,6 @@
-# Hi there 👋 I am Adrien
+# Hi there 👋
+
+### I am Adrien
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdrienLeger2?label=Twitter&style=social)](https://twitter.com/AdrienLeger2)
 [![GitHub followers](https://img.shields.io/github/followers/a-slide?label=Github&style=social)](https://github.com/a-slide)
@@ -17,26 +19,11 @@ I am a **computational biologist** and **open source software developer** workin
 
 ## Projects
 
-<table width="100%" border="0" cellspacing="20" cellpadding="20">
-<tbody>
-<tr>
-<td width="33%">
-<a href = "https://a-slide.github.io/pycoQC/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC"></a>
-</td>
-<td width="33%">
-<a href = "https://a-slide.github.io/pycoMeth/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg" alt="pycoMeth"></a>
-</td>
-<td width="33%">
-<a href = "https://github.com/a-slide/NanoSnake"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg" alt="NanoSnake"></a>
-</td>
-</tr>
-<tr>
-<td width="33%">
-<a href = "https://github.com/a-slide/NanoCount"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg" alt="NanoCount"></a>
-</td>
-<td width="66%">
-<a href = "https://nanocompore.rna.rocks/"><img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg" alt="Nanocompore"></a>
-</td>
-</tr>
-</tbody>
-</table>
+<p>
+  <code><img width="33%" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg"></code>
+  <code><img width="33%" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg"></code>
+  <code><img width="33%" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg"></code>
+  <br />
+  <code><img width="33%" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg"></code>
+  <code><img width="66%" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg"></code>
+</p>
