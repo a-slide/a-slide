@@ -11,9 +11,8 @@ I am a **computational biologist** and **open source software developer** workin
 ### Projects
 
 
-<table>
+<table width="100%" border="0" cellspacing="10" cellpadding="10">
 <tbody>
-
 <tr>
 
 <td align="center" width="50%">
