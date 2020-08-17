@@ -10,25 +10,10 @@ I am a **computational biologist** and **open source software developer** workin
 
 ### Projects
 
-<div align="center" width="50">
-
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.png" alt="Welcome!" width="300"/>
-
+<div>
+	<a href = "https://a-slide.github.io/pycoQC/">
+		<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.png" alt="Welcome!" width="300"/>
+	</a>
 </div>
-
-
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.png", width="250">
-
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg", width="350">
-
-</br>
-
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoSnake.svg", width="300">
-
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg", width="300">
-
-</br>
-
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/Nanocompore.svg", width="600">
 
 
