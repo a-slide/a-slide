@@ -10,14 +10,20 @@ I am a **computational biologist** and **open source software developer** workin
 
 ### Projects
 
-<div class="row">
 
-<div class="column">
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC" width="300">
-</div>
+<table>
+<tbody>
 
-<div class="column">
-<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC" width="300">
-</div>
+<tr>
 
-</div> 
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC"> 
+</td>
+
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC"> 
+</td>
+
+</tr>
+</tbody>
+</table>
