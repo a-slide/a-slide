@@ -6,7 +6,4 @@
 
 # Actively maintained projects
 
-* pycoQC
-* pycoMeth
-* NanoCount
-* NanoSnake
+<a href = "https://www.tutorialspoint.com"> <img src="Pictures/pycoQC.svg", width="250"> </a>
