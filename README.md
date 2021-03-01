@@ -2,7 +2,9 @@
 
 ## I am Adrien
 
-I am a **computational biologist** and **open source software developer** working as a senior postdoc at the EMBL-EBI in the [Birney research group](https://www.ebi.ac.uk/research/birney). I ❤️ Python, linux and dataviz
+I am a research scientist working in the algorithm research team at [Oxford Nanopore](https://github.com/nanoporetech)
+
+I ❤️ Python, linux and dataviz
 
 ---
 
@@ -16,8 +18,8 @@ I am a **computational biologist** and **open source software developer** workin
 ### Projects
 
 <p>
-  <code><a href = "https://a-slide.github.io/pycoQC/"><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC"></a></code>
-  <code><a href = "https://a-slide.github.io/pycoMeth/"><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg" alt="pycoMeth"></a></code>
+  <code><a href = "https://github.com/a-slide/pycoQC"><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoQC.svg" alt="pycoQC"></a></code>
+  <code><a href = "https://github.com/a-slide/pycoMeth/"><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoMeth.svg" alt="pycoMeth"></a></code>
   <code><a href = "https://github.com/a-slide/pycoSnake"><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/pycoSnake.svg" alt="pycoSnake"></a></code>
   <br>
   <code><a href = "https://github.com/a-slide/NanoCount"><img width="25%" height="100" src="https://raw.githubusercontent.com/a-slide/a-slide/master/Pictures/NanoCount.svg" alt="NanoCount"></a></code>
