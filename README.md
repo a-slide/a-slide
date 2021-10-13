@@ -2,7 +2,7 @@
 
 ## I am Adrien
 
-I am a research scientist working in the algorithm research team at [Oxford Nanopore](https://github.com/nanoporetech)
+I am a Senior research scientist working in the research division at [Oxford Nanopore](https://github.com/nanoporetech)
 
 I ❤️ Python, linux and dataviz
 
